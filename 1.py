@@ -1,5 +1,0 @@
-n=input("Enter Comma Separated Numbers: ")
-l=n.split(",")
-t=tuple(l)
-print(l)
-print(t)
